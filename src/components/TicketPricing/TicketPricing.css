@@ -1,0 +1,55 @@
+.pricing-card {
+  width: 80%;
+  /* height: auto; */
+  margin: 20px auto;
+  border: 2px solid orangered;
+  /* background-color: aqua; */
+  color: white;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.price {
+  width: 80%;
+  margin: 0 auto;
+  padding: 25px 0 10px 0;
+  font-size: 22px;
+  border-bottom: 2px solid orangered;
+}
+
+.price h2 {
+  /* background-color: chartreuse; */
+  /* padding: 10px 0; */
+  margin: 0;
+}
+
+.price-details {
+  width: 80%;
+  /* height: 150px; */
+  /* text-align: left; */
+  margin: 0 auto;
+  padding: 20px;
+  /* background-color: darkkhaki; */
+}
+.purchase img {
+  width: 20px;
+  height: 100%;
+  margin: 0 5px 0 0;
+  /* padding-top: 10px;  */
+  /* background-color: darkmagenta */
+}
+
+.purchase {
+  width: 70%;
+  padding: 15px;
+  margin-top: 10px;
+  margin: 10px auto;
+  border-radius: 10px;
+  background-color: orangered;
+  box-shadow: 5px 5px 2px black;
+}
+.purchase a {
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+}

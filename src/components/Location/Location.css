@@ -1,0 +1,29 @@
+/* .App {
+  font-family: sans-serif;
+  text-align: center;
+} */
+
+.location-container {
+  width: 100%;
+  padding: 0;
+}
+
+.location-tag {
+  width: 100%;
+  color: black;
+  text-align: center;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+.location-tag h1 {
+  font-size: 38px;
+  border-right: 2px solid orangered;
+  border-left: 2px solid orangered;
+}
+
+.map {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

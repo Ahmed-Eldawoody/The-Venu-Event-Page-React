@@ -1,0 +1,54 @@
+.container {
+  width: 70%;
+  height: 300px;
+  margin: 0 auto;
+  background-color: #000000;
+  border-radius: 60px;
+  box-shadow: 10px 10px 5px orangered;
+  margin-bottom: 40px;
+}
+
+.calender-icon {
+  width: 100%;
+  color: white;
+  font-size: 52px;
+  padding: 20px 0 0 0;
+}
+
+.date-time {
+  width: 80%;
+  margin: 0 auto;
+  color: white;
+  text-align: center;
+  padding: 0 0 10px 0;
+  font-size: 22px;
+  border-bottom: 0.25px solid orangered;
+  /* margin: 0; */
+}
+
+span {
+  color: orangered;
+}
+
+.date {
+  color: white;
+  /* background-color: aqua; */
+  font-size: 20px;
+  text-align: center;
+  padding: 40px;
+}
+.time {
+  color: white;
+  /* background-color: aqua; */
+  font-size: 20px;
+  text-align: center;
+}
+
+.location {
+  color: white;
+  /* background-color: aqua; */
+  font-size: 20px;
+  text-align: center;
+  padding: 40px;
+  line-height: 35px;
+}
